@@ -1,2 +1,3 @@
 # zuschuss-backend
-Zuschuss Check Backend Server.
+Zuschuss Check Backend Server
+
