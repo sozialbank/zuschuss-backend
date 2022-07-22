@@ -12,7 +12,6 @@ export class AppController {
 
   @Get('headline')
   getHeadline() {
-    return this.appService.getFirstHeadline()
+    return this.appService.getFirstHeadline();
   }
-
 }
